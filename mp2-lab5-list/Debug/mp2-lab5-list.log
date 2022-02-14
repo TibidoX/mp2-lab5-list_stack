@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\vovab\source\repos\mp2-lab5-list\mp2-lab5-list\main.cpp(2,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  mp2-lab5-list.vcxproj -> C:\Users\vovab\source\repos\mp2-lab5-list\Debug\mp2-lab5-list.exe
